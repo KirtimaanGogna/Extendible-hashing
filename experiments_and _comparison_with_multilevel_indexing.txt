@@ -1,0 +1,65 @@
+X: 50000
+Y: 51000
+
+Estimate/Actual
+Naive Algorithm estimate: 1500.0  access, Actual: 1500
+Multilevel Algorithm estimate: 1009.0 access, Actual: 1009
+Extendible Hashing estimate: 2172.7373333333335 access, Actual: 2002
+Optimizer chooses: Multilevel indexing
+
+X: 50000
+Y: 55000
+Naive Algorithm estimate: 1500.0  access, Actual: 1500
+Multilevel Algorithm estimate: 5029.0 access, Actual: 5029
+Extendible Hashing estimate: 10855.404000000002 access, Actual: 10002
+Optimizer chooses: Naive Algorithm
+
+X: 50000
+Y: 60000
+Naive Algorithm estimate: 1500.0  access, Actual: 1500
+Multilevel Algorithm estimate: 10054.0 access, Actual: 10054
+Extendible Hashing estimate: 21708.737333333334 access, Actual: 20002
+Optimizer chooses: Naive Algorithm
+
+X: 50000
+Y: 70000
+Naive Algorithm estimate: 1500.0  access, Actual: 1500
+Multilevel Algorithm estimate: 20104.0 access, Actual: 20104
+Extendible Hashing estimate: 43415.404 access, Actual: 40002
+
+X: 50000
+Y: 90000
+Naive Algorithm estimate: 1500.0  access, Actual: 1500
+Multilevel Algorithm estimate: 40204.0 access, Actual: 40204
+Extendible Hashing estimate: 86828.73733333334 access, Actual: 80232
+Optimizer chooses: Naive Algorithm
+
+X: 100000
+Y: 180000
+Naive Algorithm estimate: 1500.0  access, Actual: 1500
+Multilevel Algorithm estimate: 80402.995 access, Actual: 80403
+Extendible Hashing estimate: 173654.404 access, Actual: 160001
+Optimizer chooses: Naive Algorithm
+
+X: 100000
+Y: 260000
+Naive Algorithm estimate: 1500.0  access, Actual: 1500
+Multilevel Algorithm estimate: 100504.0 access Actual :100503
+Extendible Hashing estimate: 287307.83733333333 access, Actual: 263412
+Optimizer chooses: Naive Algorithm
+
+X: 100000
+Y: 300000
+Naive Algorithm estimate: 1500.0  access, Actual: 1500
+Multilevel Algorithm estimate: 100504.0 access, Actual: 100503
+Extendible Hashing estimate: 334134.504 access, Actual: 300014
+Optimizer chooses: Naive Algorithm
+
+X: 100000
+Y: 350000
+Naive Algorithm estimate: 1500.0  access, Actual: 1500
+Multilevel Algorithm estimate: 100504.0 access, Actual: 100503
+Extendible Hashing estimate: 392667.83733333333 access, Actual: 350001
+Optimizer chooses: Naive Algorithm
+
+
