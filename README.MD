@@ -1,26 +1,3 @@
-# Extendible Hashing
-PG Software Lab - CSP 509  
-Major-project Specification Phase A  
-
-## Instructions:
-* All submissions must be made through the Moodle site for this course
-* Only one submission per team would be considered and graded. It would be assumed that all members of the team
-have participated equally and same score would be given to all members of the team.
-* Your submission should have names of all the members of your team.
-* Any assumptions made while solving the problem should be clearly stated in the solution.
-* You can take-up this project in teams of size 2 or size 3. Teams size-3 would have to do more work in Phase B
-of this project. You are not allowed to different teams across phase A and phase B of the project.**
-* As always correctness of the algorithm must be ensured.
-* TAs would be quizzing you on your code. You must understand each and every line of your submitted code. Also the
-implementation specifications mentioned in the questions need to be strictly followed. Failure to adhere to these
-requirements would result in substantial loss of points.
-* Also pay attention to the scalability of the code. Your code would be tested on large datasets.
-* Very Important: Your code should not have a directory structure. All files (code + dataset + written material for
-questions) should be present in just one folder. Note that this is absolutely crucial for grading this assignment.
-* **In this phase,** ​you are required to implement Extendible Hashing. Specialized libraries for managing hash tables must not
-be used. You may existing libraries for basic data structures like vectors and associative array (e.g, map in C++ STL
-libraries or equivalent in JAVA). You may also use math libraries as needed for tasks like, generating random numbers,
-converting to and from binary format, etc.
 ## Dataset creation:
 For this question, you would have to create a synthetic table (simulating sales records of department stores) containing 1
 Lakh records. Each record in this file contains four fields: (1) Transaction ID (an integer), (2) Transaction sale amount (an
